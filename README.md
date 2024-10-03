@@ -1,6 +1,10 @@
 # python-anvil-apps
 A collection of apps created in the [Python Anvil course](https://pythonanvil.com)
 
-- [Hello World](https://github.com/therden/python-anvil-apps/blob/main/PA1Hello%20World.yaml)
-- [Web Cam Viewer](https://github.com/therden/python-anvil-apps/blob/main/PA2Web%20Cam%20Viewer.yaml)
-- [Coin Flip](https://github.com/therden/python-anvil-apps/blob/main/PA3Coin%20Flip.yaml)
+- [Hello World](https://pa-hello-world.anvil.app)
+- [Web Cam Viewer](https://pa-webcam-viewer.anvil.app)
+- [Coin Flip](https://pa-time-between.anvil.app)
+- [MathTest](https://pa-math-test.anvil.app)
+- [Multi-Page Site](https://pa-multipage-site.anvil.app)
+- [Menu Test](https://pa-menu-test.anvil.app)
+<!--- []()-->
