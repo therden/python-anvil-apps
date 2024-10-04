@@ -7,4 +7,5 @@ A collection of apps created in the [Python Anvil course](https://pythonanvil.co
 - [MathTest](https://pa-math-test.anvil.app)
 - [Multi-Page Site](https://pa-multipage-site.anvil.app)
 - [Menu Test](https://pa-menu-test.anvil.app)
+- [Chat](https://pa-chat.anvil.app)
 <!--- []()-->
